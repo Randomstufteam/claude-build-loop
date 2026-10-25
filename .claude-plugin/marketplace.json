@@ -1,0 +1,15 @@
+{
+  "name": "randomstufteam",
+  "owner": {
+    "name": "Randomstufteam",
+    "url": "https://github.com/Randomstufteam"
+  },
+  "plugins": [
+    {
+      "name": "build-loop",
+      "source": "./",
+      "description": "Plan, build, test, review and polish one slice at a time with planner, builder, reviewer and helper agents.",
+      "version": "1.0.0"
+    }
+  ]
+}

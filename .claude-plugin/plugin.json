@@ -1,0 +1,13 @@
+{
+  "name": "build-loop",
+  "version": "1.0.0",
+  "description": "A plan, build, test, review, polish loop for Claude Code with four specialist agents: planner (Opus), builder (Sonnet), reviewer (Opus) and helper (Haiku).",
+  "author": {
+    "name": "Randomstufteam",
+    "url": "https://github.com/Randomstufteam"
+  },
+  "homepage": "https://github.com/Randomstufteam/claude-build-loop",
+  "repository": "https://github.com/Randomstufteam/claude-build-loop",
+  "license": "MIT",
+  "keywords": ["workflow", "agents", "planning", "code-review", "csharp", "wpf"]
+}
